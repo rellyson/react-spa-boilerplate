@@ -1,7 +1,5 @@
-import React, { FC } from "react";
+import React, { FC } from 'react'
 
-const NotFound: FC = () => (
-    <h3>Ops! Path not found.</h3>
-)
+const NotFound: FC = () => <h3>Ops! Path not found.</h3>
 
-export default NotFound;
+export default NotFound
